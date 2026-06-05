@@ -1,0 +1,26 @@
+Project Breakdown
+This final project for this course has several steps that you must complete. To give you an overview of the project, all the high-level steps are listed below. The project is then divided into several tasks that give the detailed instructions for each step. You must complete all the task to successfully complete the project.
+
+Prerequisite: You need to complete the following two labs before starting the final project.
+Hands-on Lab - CRUD operations with Node.js.
+Practice Project - CRUD operations on Express server with JWT & Session Authentication.
+Part A: Fork the Git repository to have the server side book review application code you need to start
+Create your own copy of the git repository which has the code you need to start the project.
+Clone the repository into the theia environment.
+Part B: npm install the necessary packages
+Change to the express JS server directory and install all the packages required in your local environment for the server to run.
+Depending on the submission type, you may either use cURL to test the required API endpoints or use your Google Mail credentials to register or log in to Postman and test the same endpoints.
+Part C: Implementing Authentication for using the Book Review application
+You will create access restrictions to some endpoints using JWT and session level authentication.
+Part D: Access the book review application as general purpose user and register user
+General user can access all the books available in the shop and get all books based on ISBN,Author,Title,Review.
+Once a user register with the app, they are able to add or modify and delete book reviews.
+Part E: Use Async/Await or Promises with Axios in Node.js for each of the four CRUD Operations.
+Using the async,callback function, retrieve all books. Using Promises, search for the book by ISBN and then search by author or title.
+Depending on the submission type, you may either use cURL to test the required API endpoints or use your Google Mail credentials to register or log in to Postman and test the same endpoints.
+Submit your project for Grading
+Criteria for Option 1: AI-Graded Submission and Evaluation:To receive a grade, submit the cURL command and its output for your Book Review application, along with a link to the public GitHub repository as mentioned in the final project.
+In this lab, you will be asked to save the cURL command text and its output for evaluation.Criteria for Option 2 : Peer-Graded Submission and Evaluation:To be graded, submit the Github URL of your Book Review application code.
+In this lab, you will be prompted to take the required screenshots and to give it a specific name.
+Make sure to use the name specified, as the person reviewing your lab will be able to identify the correct screenshot based on that and review accordingly.Next Steps
+To complete the lab, follow the step-by-step instructions.
