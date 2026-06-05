@@ -1,0 +1,16 @@
+{
+  "9780143127741": {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "isbn": "9780143127741",
+    "reviews": {
+      "alice": "Great survival sci-fi"
+    }
+  },
+  "9780261103573": {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780261103573",
+    "reviews": {}
+  }
+}
